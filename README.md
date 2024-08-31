@@ -13,4 +13,4 @@ My data science and analytics projects
 Reach out to me at tharathepbrj@gmail.com
 
 ## Image
-![Burger]https://images.app.goo.gl/4CWAe5p8aSsEAM9d8
+![Burger](https://images.app.goo.gl/4CWAe5p8aSsEAM9d8)
